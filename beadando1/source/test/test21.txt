@@ -1,0 +1,4 @@
+8
+P U 2000 P P P F 2000 P P
+3
+  C Red G Yellow T
