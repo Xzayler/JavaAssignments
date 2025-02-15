@@ -5,4 +5,4 @@ The documentations include:
 - UML diagrams
 - User stories
 
-The code is ment to be run with an IDE like IntelliJ IDEA
+The code is meant to be run with an IDE like IntelliJ IDEA
